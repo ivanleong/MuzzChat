@@ -76,8 +76,8 @@ MVVM with SOLID principles.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/ivanleong/MuzzChatApp
-cd MuzzChatApp
+git clone https://github.com/ivanleong/MuzzChat
+cd MuzzChat
 ```
 
 2. Open the project in Android Studio
